@@ -1,0 +1,6 @@
+C:\Users\sam mourfield\source\repos\GoldBadgeChallenges\ClaimsLibrary\bin\Debug\ClaimsLibrary.dll
+C:\Users\sam mourfield\source\repos\GoldBadgeChallenges\ClaimsLibrary\bin\Debug\ClaimsLibrary.pdb
+C:\Users\sam mourfield\source\repos\GoldBadgeChallenges\ClaimsLibrary\obj\Debug\ClaimsLibrary.csprojAssemblyReference.cache
+C:\Users\sam mourfield\source\repos\GoldBadgeChallenges\ClaimsLibrary\obj\Debug\ClaimsLibrary.csproj.CoreCompileInputs.cache
+C:\Users\sam mourfield\source\repos\GoldBadgeChallenges\ClaimsLibrary\obj\Debug\ClaimsLibrary.dll
+C:\Users\sam mourfield\source\repos\GoldBadgeChallenges\ClaimsLibrary\obj\Debug\ClaimsLibrary.pdb

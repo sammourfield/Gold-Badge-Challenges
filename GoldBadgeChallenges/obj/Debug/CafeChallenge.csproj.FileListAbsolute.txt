@@ -1,0 +1,10 @@
+C:\Users\sam mourfield\source\repos\GoldBadgeChallenges\GoldBadgeChallenges\bin\Debug\GoldBadgeChallenges.exe.config
+C:\Users\sam mourfield\source\repos\GoldBadgeChallenges\GoldBadgeChallenges\bin\Debug\GoldBadgeChallenges.exe
+C:\Users\sam mourfield\source\repos\GoldBadgeChallenges\GoldBadgeChallenges\bin\Debug\GoldBadgeChallenges.pdb
+C:\Users\sam mourfield\source\repos\GoldBadgeChallenges\GoldBadgeChallenges\bin\Debug\CafeLibrary.dll
+C:\Users\sam mourfield\source\repos\GoldBadgeChallenges\GoldBadgeChallenges\bin\Debug\CafeLibrary.pdb
+C:\Users\sam mourfield\source\repos\GoldBadgeChallenges\GoldBadgeChallenges\obj\Debug\CafeChallenge.csprojAssemblyReference.cache
+C:\Users\sam mourfield\source\repos\GoldBadgeChallenges\GoldBadgeChallenges\obj\Debug\CafeChallenge.csproj.CoreCompileInputs.cache
+C:\Users\sam mourfield\source\repos\GoldBadgeChallenges\GoldBadgeChallenges\obj\Debug\CafeChallenge.csproj.CopyComplete
+C:\Users\sam mourfield\source\repos\GoldBadgeChallenges\GoldBadgeChallenges\obj\Debug\GoldBadgeChallenges.exe
+C:\Users\sam mourfield\source\repos\GoldBadgeChallenges\GoldBadgeChallenges\obj\Debug\GoldBadgeChallenges.pdb

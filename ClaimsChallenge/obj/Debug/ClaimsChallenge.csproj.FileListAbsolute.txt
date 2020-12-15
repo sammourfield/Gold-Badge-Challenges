@@ -1,0 +1,10 @@
+C:\Users\sam mourfield\source\repos\GoldBadgeChallenges\ClaimsChallenge\obj\Debug\ClaimsChallenge.csprojAssemblyReference.cache
+C:\Users\sam mourfield\source\repos\GoldBadgeChallenges\ClaimsChallenge\obj\Debug\ClaimsChallenge.csproj.CoreCompileInputs.cache
+C:\Users\sam mourfield\source\repos\GoldBadgeChallenges\ClaimsChallenge\bin\Debug\ClaimsChallenge.exe.config
+C:\Users\sam mourfield\source\repos\GoldBadgeChallenges\ClaimsChallenge\bin\Debug\ClaimsChallenge.exe
+C:\Users\sam mourfield\source\repos\GoldBadgeChallenges\ClaimsChallenge\bin\Debug\ClaimsChallenge.pdb
+C:\Users\sam mourfield\source\repos\GoldBadgeChallenges\ClaimsChallenge\bin\Debug\ClaimsLibrary.dll
+C:\Users\sam mourfield\source\repos\GoldBadgeChallenges\ClaimsChallenge\bin\Debug\ClaimsLibrary.pdb
+C:\Users\sam mourfield\source\repos\GoldBadgeChallenges\ClaimsChallenge\obj\Debug\ClaimsChallenge.csproj.CopyComplete
+C:\Users\sam mourfield\source\repos\GoldBadgeChallenges\ClaimsChallenge\obj\Debug\ClaimsChallenge.exe
+C:\Users\sam mourfield\source\repos\GoldBadgeChallenges\ClaimsChallenge\obj\Debug\ClaimsChallenge.pdb
