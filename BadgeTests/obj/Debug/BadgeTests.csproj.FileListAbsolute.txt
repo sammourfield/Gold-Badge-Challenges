@@ -1,0 +1,16 @@
+C:\Users\sam mourfield\source\repos\GoldBadgeChallenges\BadgeTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\sam mourfield\source\repos\GoldBadgeChallenges\BadgeTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\sam mourfield\source\repos\GoldBadgeChallenges\BadgeTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\sam mourfield\source\repos\GoldBadgeChallenges\BadgeTests\bin\Debug\BadgeTests.dll
+C:\Users\sam mourfield\source\repos\GoldBadgeChallenges\BadgeTests\bin\Debug\BadgeTests.pdb
+C:\Users\sam mourfield\source\repos\GoldBadgeChallenges\BadgeTests\bin\Debug\BadgeLibrary.dll
+C:\Users\sam mourfield\source\repos\GoldBadgeChallenges\BadgeTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\sam mourfield\source\repos\GoldBadgeChallenges\BadgeTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\sam mourfield\source\repos\GoldBadgeChallenges\BadgeTests\bin\Debug\BadgeLibrary.pdb
+C:\Users\sam mourfield\source\repos\GoldBadgeChallenges\BadgeTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\sam mourfield\source\repos\GoldBadgeChallenges\BadgeTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\sam mourfield\source\repos\GoldBadgeChallenges\BadgeTests\obj\Debug\BadgeTests.csprojAssemblyReference.cache
+C:\Users\sam mourfield\source\repos\GoldBadgeChallenges\BadgeTests\obj\Debug\BadgeTests.csproj.CoreCompileInputs.cache
+C:\Users\sam mourfield\source\repos\GoldBadgeChallenges\BadgeTests\obj\Debug\BadgeTests.csproj.CopyComplete
+C:\Users\sam mourfield\source\repos\GoldBadgeChallenges\BadgeTests\obj\Debug\BadgeTests.dll
+C:\Users\sam mourfield\source\repos\GoldBadgeChallenges\BadgeTests\obj\Debug\BadgeTests.pdb

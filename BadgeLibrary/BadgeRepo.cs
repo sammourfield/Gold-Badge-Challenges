@@ -8,7 +8,7 @@ namespace BadgeLibrary
 {
     public class BadgeRepo
     {
-        private readonly Dictionary<int, List<string>> _badgesDictionary = new Dictionary<int, List<string>>();
+        public readonly Dictionary<int, List<string>> _badgesDictionary = new Dictionary<int, List<string>>();
 
         public void CreateNewBadge(Badge item)
         {
