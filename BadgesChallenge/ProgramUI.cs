@@ -58,7 +58,7 @@ namespace BadgesChallenge
                         break;
                 }
 
-                Console.WriteLine("Press any Key to Exit..");
+                Console.WriteLine("Press any Key to continue..");
                 Console.ReadKey();
                 Console.Clear();
             }
