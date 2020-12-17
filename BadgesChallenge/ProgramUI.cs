@@ -63,6 +63,8 @@ namespace BadgesChallenge
                 Console.Clear();
             }
         }
+        
+        //Method to Add A Badge to badge Dictionary
         private void AddABadge()
         {
 
@@ -102,7 +104,7 @@ namespace BadgesChallenge
         {
             Console.WriteLine("What is the badge number to update");
             string badgeId = Console.ReadLine();
-            Console.WriteLine(badgeId + " has access to " + String.Join(",", badgeDictionary[badgeId])); 
+            Console.WriteLine(badgeId + " has access to  Doors:  " + String.Join(",", badgeDictionary[badgeId])); 
 
             Console.WriteLine("What would you like to do\n" +
                 "1. Remove a Door\n" +
@@ -122,6 +124,7 @@ namespace BadgesChallenge
             Console.WriteLine(badgeId + " has access to " + String.Join(",", badgeDictionary[badgeId]));
         }
 
+        //Method to call In EditBadge methods if statement to Remove a Door to the dictionary 
         private void RemoveDoorFromBadgeDictionary(string badgeId)
         {
             var listOfDoors = badgeDictionary[badgeId];
@@ -132,6 +135,7 @@ namespace BadgesChallenge
             
         }
 
+        //Method to call In EditBadge methods if statement to Add a Door to the dictionary  
         private void AddDoorToBadgeDictionary(string badgeId)
         {
             var listOfDoors = badgeDictionary[badgeId];
@@ -142,6 +146,7 @@ namespace BadgesChallenge
             badgeDictionary.Add(badgeId, listOfDoors);
         }
 
+        //Grabbing Key Value Pair from dictionary & writing them as a string and joining them.
         private void ListAllBadges()
         {
             Console.Clear();
